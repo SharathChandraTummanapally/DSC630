@@ -1,5 +1,6 @@
 ### Project Description
-- This project is an attempt to forecast how we can decrease loan defaults of Personal Loans. I built a model for this loan prediction. This problem would be interesting to solve because it's existing problem in loan business and eventually by predicting the defaulter, it could be beneficial to the lending organization. This prediction might help any bank to be prepared for any foreseen pandemics in future.![image](https://user-images.githubusercontent.com/85579587/180633259-bcfa2b88-a872-4f6e-9d89-b160c4b519f2.png)
+- This project is an attempt to forecast how we can decrease loan defaults of Personal Loans. I built a model for this loan prediction. This problem would be interesting to solve because it's existing problem in loan business and eventually by predicting the defaulter, it could be beneficial to the lending organization. This prediction might help any bank to be prepared for any foreseen pandemics in future.
+
 ---
 
 ### How to run the file?
